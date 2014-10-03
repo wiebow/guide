@@ -1,20 +1,18 @@
-GUIde
-=====
-
-GUIde is a GUI form editor for Blitzplus and Blitzmax. The source is for Blitzplus.
-
 Introduction
 ============
+
+GUIde is a GUI form editor for Blitzplus and Blitzmax. This source is for Blitzplus.
 
 GUIde is a Form Editor which will enable you to create a graphical user interface for your application with ease...
 IMPORTANT: As of 03-11-2006, GUIde is no longer updated. The final version is 1.4.
 
+![guide](http://members.home.nl/wdw/guide/full2.png)
+
 Features
 ========
 
-GUIde is no longer actively developed or supported. This page only gives an impression of the program features.
-
 GUIde 1.4 Features:
+
   * BlitzPlus and BlitzMAX support
   * Customisable code export
   * Customisable editor view
